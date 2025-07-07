@@ -63,7 +63,7 @@ Add Quote
  Full stack integration (React + Express + MongoDB)
 
 🔗 GitHub Repositories
-Project : (https://github.com/kalpitagavas/QuoteGenerator.git)](https://github.com/kalpitagavas/QuoteGenerator.git)
+Project : https://github.com/kalpitagavas/QuoteGenerator.git
 
 Live Demo (optional): [Netlify/Vercel/Render/etc.]
 
